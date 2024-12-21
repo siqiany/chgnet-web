@@ -1,4 +1,4 @@
-#这是一个基于vue框架的web网页，后端文件为chgnet_reload,利用flask传递文件，可以接收物质结构的cif文件并进行一些分析。
+这是一个基于vue框架的web网页，后端文件为chgnet_reload,利用flask传递文件，可以接收物质结构的cif文件并进行一些分析。
 
 # chgnet-web
 
